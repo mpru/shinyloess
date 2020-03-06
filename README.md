@@ -6,6 +6,8 @@ With this Shiny App you can change the values of the parameters needed in a loca
 
 ### How to run the app
 
+Visit [https://mpru.shinyapps.io/shinyloess/](https://mpru.shinyapps.io/shinyloess/) to run it online or follow these steps to use it on your computer:
+
 In your local R installation, make sure you have the packages *shiny*, *ggplot2* and *dplyr*. Then run:
 
 ```r
