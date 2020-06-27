@@ -1,0 +1,10 @@
+name: shinyloess
+title:
+username:
+account: mpru
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1572748
+bundleId: 2647624
+url: https://mpru.shinyapps.io/shinyloess/
+when: 1575669518.41459
